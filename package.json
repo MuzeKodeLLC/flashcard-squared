@@ -1,0 +1,7 @@
+{
+  "name": "Flashcard Squared",
+  "version": "0.0.4",
+  "dependencies": {
+    "requests": "requests"
+  }
+}
